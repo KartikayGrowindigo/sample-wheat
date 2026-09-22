@@ -808,19 +808,7 @@ function TopBar() {
           </nav>
         </LayoutGroup>
 
-        <button
-          onClick={() => window.print()}
-          className="wh-data ml-auto md:ml-2 shrink-0 flex items-center gap-1.5 px-3 py-1.5 rounded"
-          style={{ fontSize: 10.5, letterSpacing: ".08em", color: "#fff", background: "rgba(255,255,255,.12)", border: "1px solid rgba(255,255,255,.28)", whiteSpace: "nowrap" }}
-          aria-label="Download this report as a PDF"
-        >
-          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <path d="M12 3v12" /><path d="M7 10l5 5 5-5" /><path d="M4 19h16" />
-          </svg>
-          <span className="hidden sm:inline">DOWNLOAD PDF</span>
-        </button>
-
-        <div className="hidden lg:block">
+        <div className="hidden lg:block ml-auto">
           <LogoSlot name="ClearHarvest" src={wheatProgrammeLogo} align="right" light height={33} />
         </div>
       </div>
