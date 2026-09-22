@@ -1,0 +1,1010 @@
+[
+  {
+    "key": "faridkot-faridkot-kotkapura",
+    "name": "Kotkapura",
+    "lon": 74.85234,
+    "lat": 30.56867,
+    "block": "Faridkot",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-aulakh",
+    "name": "Aulakh",
+    "lon": 74.90872,
+    "lat": 30.64528,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-bagiana",
+    "name": "Bagiana",
+    "lon": 74.88957,
+    "lat": 30.67001,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-deviwala",
+    "name": "Deviwala",
+    "lon": 74.84978,
+    "lat": 30.59796,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-dhaipai",
+    "name": "Dhaipai",
+    "lon": 74.8212,
+    "lat": 30.51315,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-dhudhi",
+    "name": "Dhudhi",
+    "lon": 74.84955,
+    "lat": 30.71282,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-faridkot",
+    "name": "Faridkot",
+    "lon": 74.93716,
+    "lat": 30.62134,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-ghaniawala",
+    "name": "Ghaniawala",
+    "lon": 74.94197,
+    "lat": 30.63056,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-jalaleana",
+    "name": "Jalaleana",
+    "lon": 74.87118,
+    "lat": 30.63451,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-kot-kapura",
+    "name": "Kot Kapura",
+    "lon": 74.80473,
+    "lat": 30.59367,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-kothe-kotkapura",
+    "name": "Kothe Kotkapura",
+    "lon": 74.84925,
+    "lat": 30.60865,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-kotkapura",
+    "name": "Kotkapura",
+    "lon": 74.83567,
+    "lat": 30.6003,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-machaki-mal-singh",
+    "name": "Machaki Mal Singh",
+    "lon": 74.82171,
+    "lat": 30.61299,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-nangal",
+    "name": "Nangal",
+    "lon": 74.86211,
+    "lat": 30.67023,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-nathewala",
+    "name": "Nathewala",
+    "lon": 74.85696,
+    "lat": 30.64634,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "faridkot-kotkapura-sirsari",
+    "name": "Sirsari",
+    "lon": 74.87312,
+    "lat": 30.65894,
+    "block": "Kotkapura",
+    "district": "Faridkot"
+  },
+  {
+    "key": "ludhiana-jagraon-agwar-gujjran",
+    "name": "Agwar Gujjran",
+    "lon": 75.42401,
+    "lat": 30.79711,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-agwar-lopon-khurd",
+    "name": "Agwar Lopon Khurd",
+    "lon": 75.45169,
+    "lat": 30.78983,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-bir-akhara",
+    "name": "Bir Akhara",
+    "lon": 75.48927,
+    "lat": 30.75227,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-chimna",
+    "name": "Chimna",
+    "lon": 75.50488,
+    "lat": 30.84938,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-galib-kalan",
+    "name": "Galib Kalan",
+    "lon": 75.40516,
+    "lat": 30.85884,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-gurusar-kaunke",
+    "name": "Gurusar Kaunke",
+    "lon": 75.41517,
+    "lat": 30.79795,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-jagraon",
+    "name": "Jagraon",
+    "lon": 75.40331,
+    "lat": 30.79785,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-malak",
+    "name": "Malak",
+    "lon": 75.38812,
+    "lat": 30.82505,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-pona",
+    "name": "Pona",
+    "lon": 75.52254,
+    "lat": 30.82918,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-rasulpur",
+    "name": "Rasulpur",
+    "lon": 75.38297,
+    "lat": 30.70312,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-sherpur-kalan",
+    "name": "Sherpur Kalan",
+    "lon": 75.43373,
+    "lat": 30.83966,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-sherpur-khurd",
+    "name": "Sherpur Khurd",
+    "lon": 75.4195,
+    "lat": 30.84735,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-jagraon-sidhwan-bet",
+    "name": "Sidhwan Bet",
+    "lon": 75.46102,
+    "lat": 30.92008,
+    "block": "Jagraon",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-bhamian-kalan",
+    "name": "Bhamian Kalan",
+    "lon": 75.94361,
+    "lat": 30.92026,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-bhamian-khurd",
+    "name": "Bhamian Khurd",
+    "lon": 75.97432,
+    "lat": 30.93555,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-bhukhri-kalan",
+    "name": "Bhukhri Kalan",
+    "lon": 75.9665,
+    "lat": 30.92991,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-budhewal",
+    "name": "Budhewal",
+    "lon": 75.99933,
+    "lat": 30.89875,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-gaunsgarh",
+    "name": "Gaunsgarh",
+    "lon": 75.93533,
+    "lat": 30.97153,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-hussainpur",
+    "name": "Hussainpur",
+    "lon": 75.96292,
+    "lat": 30.95433,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-ajnoud",
+    "name": "Ajnoud",
+    "lon": 75.96479,
+    "lat": 30.90981,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-bajra",
+    "name": "Bajra",
+    "lon": 75.88848,
+    "lat": 30.96083,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-bhaini-nathu",
+    "name": "Bhaini Nathu",
+    "lon": 76.03414,
+    "lat": 30.89377,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-bhamian-kalan",
+    "name": "Bhamian Kalan",
+    "lon": 75.97082,
+    "lat": 30.93706,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-bhamian-khurd",
+    "name": "Bhamian Khurd",
+    "lon": 75.9448,
+    "lat": 30.92806,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-bhattian",
+    "name": "Bhattian",
+    "lon": 75.65565,
+    "lat": 30.95143,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-bhukhri-kalan",
+    "name": "Bhukhri Kalan",
+    "lon": 75.9718,
+    "lat": 30.92962,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-boothgarh",
+    "name": "Boothgarh",
+    "lon": 75.94411,
+    "lat": 30.99885,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-burj-lambra",
+    "name": "Burj Lambra",
+    "lon": 75.6856,
+    "lat": 30.94964,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-buthgarh",
+    "name": "Buthgarh",
+    "lon": 75.93719,
+    "lat": 30.95353,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-dhanansu",
+    "name": "Dhanansu",
+    "lon": 75.98525,
+    "lat": 30.91153,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-dhaula",
+    "name": "Dhaula",
+    "lon": 75.93276,
+    "lat": 30.95178,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-dheri",
+    "name": "Dheri",
+    "lon": 75.88996,
+    "lat": 30.98002,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-dhola",
+    "name": "Dhola",
+    "lon": 75.93625,
+    "lat": 30.93772,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-dholanwal",
+    "name": "Dholanwal",
+    "lon": 76.05384,
+    "lat": 30.97445,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-garhi-fazil",
+    "name": "Garhi Fazil",
+    "lon": 76.01223,
+    "lat": 30.99291,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-gaunsgarh",
+    "name": "Gaunsgarh",
+    "lon": 75.92296,
+    "lat": 30.97199,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-gaunspur",
+    "name": "Gaunspur",
+    "lon": 75.93254,
+    "lat": 30.95248,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-gorsian",
+    "name": "Gorsian",
+    "lon": 75.71585,
+    "lat": 30.97429,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-gurusar-kaunke",
+    "name": "Gurusar Kaunke",
+    "lon": 75.42056,
+    "lat": 30.75048,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-hawas",
+    "name": "Hawas",
+    "lon": 75.95166,
+    "lat": 30.96332,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-jamalpur-lelli",
+    "name": "Jamalpur Lelli",
+    "lon": 75.85907,
+    "lat": 30.98329,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-jangirpur",
+    "name": "Jangirpur",
+    "lon": 76.0263,
+    "lat": 30.95175,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-jiwanpur",
+    "name": "Jiwanpur",
+    "lon": 75.96811,
+    "lat": 30.96548,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-kadiana",
+    "name": "Kadiana",
+    "lon": 75.98671,
+    "lat": 30.96506,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-kadiana-kalan",
+    "name": "Kadiana Kalan",
+    "lon": 75.98419,
+    "lat": 30.96281,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-kadiana-khurd",
+    "name": "Kadiana Khurd",
+    "lon": 75.99352,
+    "lat": 30.9527,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-kakka",
+    "name": "Kakka",
+    "lon": 76.07531,
+    "lat": 30.9995,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-kalewal",
+    "name": "Kalewal",
+    "lon": 75.97899,
+    "lat": 30.96352,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-kaneja",
+    "name": "Kaneja",
+    "lon": 75.8729,
+    "lat": 30.98502,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-kariana-kalan",
+    "name": "Kariana Kalan",
+    "lon": 76.00285,
+    "lat": 30.95835,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-kariana-khurd",
+    "name": "Kariana Khurd",
+    "lon": 75.98657,
+    "lat": 30.95676,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-khasi-kalan",
+    "name": "Khasi Kalan",
+    "lon": 75.95753,
+    "lat": 30.9308,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-khasi-khurd",
+    "name": "Khasi Khurd",
+    "lon": 75.96554,
+    "lat": 30.94426,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-khwajke",
+    "name": "Khwajke",
+    "lon": 75.92846,
+    "lat": 30.96198,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-krishna-colony",
+    "name": "Krishna Colony",
+    "lon": 75.90256,
+    "lat": 30.97166,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-kuliawal",
+    "name": "Kuliawal",
+    "lon": 75.96068,
+    "lat": 30.9153,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-kum-kalan",
+    "name": "Kum Kalan",
+    "lon": 76.02444,
+    "lat": 30.93718,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-ludhiana",
+    "name": "Ludhiana",
+    "lon": 76.03138,
+    "lat": 30.92466,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-ludhiana-i",
+    "name": "Ludhiana I",
+    "lon": 75.98372,
+    "lat": 30.93747,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-machhian",
+    "name": "Machhian",
+    "lon": 76.01523,
+    "lat": 30.96223,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-machhian-kalan",
+    "name": "Machhian Kalan",
+    "lon": 76.00721,
+    "lat": 30.9803,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-machhian-khurd",
+    "name": "Machhian Khurd",
+    "lon": 75.98579,
+    "lat": 30.95902,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-mainwal-ludhiana",
+    "name": "Mainwal Ludhiana",
+    "lon": 75.9938,
+    "lat": 30.98054,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-mangat",
+    "name": "Mangat",
+    "lon": 75.92858,
+    "lat": 30.99144,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-mangli-khas",
+    "name": "Mangli Khas",
+    "lon": 75.96965,
+    "lat": 30.98368,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-mehlon",
+    "name": "Mehlon",
+    "lon": 76.00897,
+    "lat": 30.8995,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-miani",
+    "name": "Miani",
+    "lon": 76.06535,
+    "lat": 30.96092,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-mianwal",
+    "name": "Mianwal",
+    "lon": 75.98832,
+    "lat": 30.98014,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-mundian",
+    "name": "Mundian",
+    "lon": 75.94856,
+    "lat": 30.89319,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-mundian-kalan",
+    "name": "Mundian Kalan",
+    "lon": 75.96557,
+    "lat": 30.91621,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-nathu-bhaini",
+    "name": "Nathu Bhaini",
+    "lon": 76.02297,
+    "lat": 30.93399,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-nurpur-bet",
+    "name": "Nurpur Bet",
+    "lon": 75.71979,
+    "lat": 30.95129,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-panch-sheel-colony",
+    "name": "Panch Sheel Colony",
+    "lon": 75.87501,
+    "lat": 30.98564,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-rattangarh",
+    "name": "Rattangarh",
+    "lon": 76.08466,
+    "lat": 30.93659,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-raur",
+    "name": "Raur",
+    "lon": 75.94974,
+    "lat": 30.98484,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-rawat",
+    "name": "Rawat",
+    "lon": 75.93234,
+    "lat": 30.95342,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-sahabana",
+    "name": "Sahabana",
+    "lon": 75.96551,
+    "lat": 30.90333,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-salkiana",
+    "name": "Salkiana",
+    "lon": 76.04102,
+    "lat": 30.96678,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-sasrali",
+    "name": "Sasrali",
+    "lon": 75.92863,
+    "lat": 30.99628,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-sasrali-colony",
+    "name": "Sasrali Colony",
+    "lon": 75.92959,
+    "lat": 31.00136,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-sirah",
+    "name": "Sirah",
+    "lon": 75.89808,
+    "lat": 30.96936,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-tajpur-bet",
+    "name": "Tajpur Bet",
+    "lon": 75.94118,
+    "lat": 30.92795,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-i-walipur",
+    "name": "Walipur",
+    "lon": 75.9782,
+    "lat": 30.97084,
+    "block": "Ludhiana I",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-bajra",
+    "name": "Bajra",
+    "lon": 75.90505,
+    "lat": 31.00354,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-basaimi",
+    "name": "Basaimi",
+    "lon": 75.71143,
+    "lat": 30.91483,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-baura",
+    "name": "Baura",
+    "lon": 76.03061,
+    "lat": 30.97606,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-borhe",
+    "name": "Borhe",
+    "lon": 76.03751,
+    "lat": 30.95558,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-bounker-dogran",
+    "name": "Bounker Dogran",
+    "lon": 75.7892,
+    "lat": 30.97377,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-kadian",
+    "name": "Kadian",
+    "lon": 75.93168,
+    "lat": 30.96009,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-kaneja",
+    "name": "Kaneja",
+    "lon": 75.88231,
+    "lat": 30.96845,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-kasabad",
+    "name": "Kasabad",
+    "lon": 75.83372,
+    "lat": 30.96405,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-machhian",
+    "name": "Machhian",
+    "lon": 76.01074,
+    "lat": 30.98245,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-machhian-kalan",
+    "name": "Machhian Kalan",
+    "lon": 76.00689,
+    "lat": 30.98527,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-mattewara",
+    "name": "Mattewara",
+    "lon": 75.97002,
+    "lat": 30.98208,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-nurpur-bet",
+    "name": "Nurpur Bet",
+    "lon": 75.72568,
+    "lat": 30.94739,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ii-qutabewal-araian",
+    "name": "Qutabewal Araian",
+    "lon": 75.89055,
+    "lat": 30.96108,
+    "block": "Ludhiana II",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-jiwanpur",
+    "name": "Jiwanpur",
+    "lon": 75.97195,
+    "lat": 30.95764,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-khasi-kalan",
+    "name": "Khasi Kalan",
+    "lon": 75.96403,
+    "lat": 30.92178,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-kumkalan",
+    "name": "Kumkalan",
+    "lon": 76.03361,
+    "lat": 30.9475,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-ludhiana-east",
+    "name": "Ludhiana (East)",
+    "lon": 75.92917,
+    "lat": 30.95763,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-machhian-kalan",
+    "name": "Machhian Kalan",
+    "lon": 76.02253,
+    "lat": 30.9798,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-mangat",
+    "name": "Mangat",
+    "lon": 75.90655,
+    "lat": 31.00329,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-mundian-kalan",
+    "name": "Mundian Kalan",
+    "lon": 75.96427,
+    "lat": 30.9168,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-nurpur-bet",
+    "name": "Nurpur Bet",
+    "lon": 75.71238,
+    "lat": 30.96189,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-sahabana",
+    "name": "Sahabana",
+    "lon": 75.96784,
+    "lat": 30.90048,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-sailkiana",
+    "name": "Sailkiana",
+    "lon": 76.11522,
+    "lat": 30.9742,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-salkiana",
+    "name": "Salkiana",
+    "lon": 76.02535,
+    "lat": 30.96563,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-sirah",
+    "name": "Sirah",
+    "lon": 75.90881,
+    "lat": 30.96569,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-tajpur",
+    "name": "Tajpur",
+    "lon": 76.0524,
+    "lat": 30.92486,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  },
+  {
+    "key": "ludhiana-ludhiana-tajpur-bet",
+    "name": "Tajpur Bet",
+    "lon": 75.94966,
+    "lat": 30.91933,
+    "block": "Ludhiana",
+    "district": "Ludhiana"
+  }
+]
