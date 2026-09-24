@@ -2735,11 +2735,11 @@ function SourcingSection() {
 ---------------------------------------------------------------------------- */
 const ANNEXURES = [
   ["Annexure 1", "Zero/Reduced Tillage field", annexureZtField, "Uniform crop rows and retained surface residue indicate field-level adoption of Zero/Reduced Tillage practices."],
-  ["Annexure 2", "Village-level meetings with farmers", annexureVlm, "Farmers attending a VLM with the field team - XXS VLMs were held across the project period."],
+  ["Annexure 2", "Village-level meetings with farmers", annexureVlm, "Farmers attending a VLM with the field team."],
   ["Annexure 3", "Farmer diary", annexureLandPrepSowing, "Land preparation and sowing register recording date of work, field ID, regenerative acres, sowing method, equipment used, time taken, fuel consumption and cost per acre."],
   ["Annexure 4", "Weekly WhatsApp messages sent to farmers", [annexureWhatsapp, annexureWhatsapp2], "Videos and visual infographics on Zero/Reduced Tillage, crop residue management and balanced fertiliser use in vernacular language were shared through weekly WhatsApp messages. The advisories also reinforced integrated pest management, responsible chemical use, farmer-diary maintenance and safe labour practices"],
-  ["Annexure 5", "Harvest in Action", [annexureHarvest, annexureHarvest2], "Geotagged documentation of mechanised wheat harvesting at a programme field prior to programme procurement and traceability activities in Sherpur Kalan, Punjab."],
-  ["Annexure 6", "Grains ready to be transported", annexureGrains, "Harvested low-carbon programme wheat being weighed and packed in separate, clearly identifiable white bags at Kot kapura, Punjab."],
+  ["Annexure 5", "Harvest in Action", [annexureHarvest, annexureHarvest2], "Geotagged documentation of mechanised wheat harvesting at a programme field prior to programme procurement and traceability activities."],
+  ["Annexure 6", "Grains ready to be transported", annexureGrains, "Harvested low-carbon programme wheat being weighed and packed in separate, clearly identifiable white bags."],
   ["Annexure 7", "Independent third-party audit", annexureAudit, "Third Party auditor in field with the Grow Indigo team and participating farmers."],
 ];
 
