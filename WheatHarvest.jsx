@@ -1,6 +1,6 @@
 /* ============================================================================
    WheatHarvest - Low-Carbon Wheat Programme
-   Rabi Season 2025 · Grow Indigo / ClearHarvest
+   Rabi Crop Season 2025-26 · Grow Indigo / ClearHarvest
    ----------------------------------------------------------------------------
    Content source: "LC Wheat Programme.docx" - restructured section-for-section
    to match that document's own table of contents (14 sections). Nothing in
@@ -75,6 +75,8 @@ import annexureHarvest2 from "./src/assets/wheat/docx/annexure-harvest-2.jpg";
 import annexureGrains from "./src/assets/wheat/docx/annexure-06-grains.jpeg";
 import annexureAudit from "./src/assets/wheat/docx/annexure-08-audit.jpeg";
 import aboutGrowIndigoGraphic from "./src/assets/wheat/docx/about-grow-indigo.png";
+import farmerVoice1 from "./src/assets/wheat/testimonials/voice-1.mov";
+import farmerVoice2 from "./src/assets/wheat/testimonials/voice-2.mp4";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -730,7 +732,7 @@ function MoistureGauge() {
 ---------------------------------------------------------------------------- */
 const NAV = [
   ["season", "Season"], ["fields", "Fields"], ["themes", "Themes"], ["governance", "Governance"],
-  ["journey", "Journey"], ["voices", "Voices"], ["documented", "Documented"], ["practice", "Practice"],
+  ["journey", "Journey"], ["voices", "Voices"], ["practice", "Practice"],
   ["audited", "Audited"], ["timeline", "Timeline"], ["farmerimpact", "Farmer Impact"],
   ["sourcing", "Sourcing"], ["evidence", "Evidence"], ["about", "About"],
 ];
@@ -825,7 +827,7 @@ function TopBar() {
 ---------------------------------------------------------------------------- */
 const HERO_LINES = [["Low-emission"], ["Wheat", "offtake"]];
 const HERO_META = [
-  ["Reporting period", "Rabi Crop Season XXS"],
+  ["Reporting period", "Rabi Crop Season 2025-26"],
   ["Implementation partner", "Grow Indigo"],
   ["Geography", "Ludhiana & Faridkot, Punjab"],
   ["Quantification", "Cool Farm Platform v3.0"],
@@ -958,7 +960,7 @@ const TICKER_ITEMS = [
   "~XXS% GHG reduction against ABC baseline",
   "~XXS% lower irrigation water use against Grow Indigo's baseline",
   "XXS MT of low-emission wheat procured",
-  "Rabi Crop Season XXS",
+  "Rabi Crop Season 2025-26",
 ];
 
 function Ticker() {
@@ -1224,7 +1226,7 @@ function FieldsSection() {
       <SectionHead
         index="02"
         title="Every Field on the Map"
-        lede="The programme covered registered wheat farms in Punjab. Farmer identities, field boundaries and agronomic information were digitally recorded to support field-level monitoring and traceability. Field-level records were organised across four processors: Gillco Agro, Golden Wheat & Allied Mills, Kohinoor Agro Foods and Ludhiana Flour Mills."
+        lede="The programme covered registered wheat farms in Punjab. Farmer identities, field boundaries and agronomic information were digitally recorded to support field-level monitoring and traceability. Field-level records were organised across four processors: Miller 1, Miller 2, Miller 3 and Miller 4."
       />
       <Reveal delay={0.15}>
         {!PDF_EXPORT && (
@@ -1640,7 +1642,7 @@ function WorkflowStepper() {
     <div className="workflow-stepper rounded-lg p-6 md:p-8" style={{ background: "#fff", border: `1px solid ${C.line}` }}>
       <div className="text-center pb-5" style={{ borderBottom: `2px solid ${C.field}` }}>
         <div className="wh-display" style={{ fontSize: 16, fontWeight: 800, color: C.ink, letterSpacing: ".01em" }}>
-          CLEAN WHEAT RABI XXS PROGRAM
+          CLEAN WHEAT RABI 2025-26 PROGRAM
         </div>
       </div>
       <div className="text-center mt-5">
@@ -1730,9 +1732,9 @@ function GovernanceSection() {
         <div className="mt-14">
           <h4 className="wh-display text-lg" style={{ color: C.field, fontWeight: 700 }}>Traceability</h4>
           <p className="mt-3" style={{ fontSize: 16, lineHeight: 1.72, color: C.mute }}>
-            Post harvest and during procurement, S3 Sutra enabled traceability of low-emission paddy from farm to
+            Post harvest and during procurement, S3 Sutra enabled traceability of low-emission wheat from farm to
             processor. It captured the complete audit trail, documenting farmer validation, produce quantities, and
-            movement of low-emission paddy. This integrated approach created a robust monitoring and verification
+            movement of low-emission wheat. This integrated approach created a robust monitoring and verification
             system that delivered high-quality data, ensured credible traceability, and supported accurate GHG
             quantification aligned with ABC reporting requirements.
           </p>
@@ -1892,8 +1894,8 @@ function JourneySection() {
    12 · SECTION 06 - FARMER VOICES
 ---------------------------------------------------------------------------- */
 const FARMER_VOICES = [
-  { id: "v1", src: null },
-  { id: "v2", src: null },
+  { id: "v1", src: farmerVoice1 },
+  { id: "v2", src: farmerVoice2 },
 ];
 
 function VoiceCard({ v, index }) {
@@ -1974,7 +1976,7 @@ function PracticeSection() {
   return (
     <Section id="practice">
       <SectionHead
-        index="08"
+        index="07"
         title="Tillage: One Establishment Change, Multiple Returns"
         lede="Using the ZT/RT practices, the wheat could be sown through retained residue without the conventional sequence of repeated land preparation. The practice reduced soil disturbance supported non-burning residue management and lowered the requirement for preparatory tractor operations."
       />
@@ -2129,8 +2131,8 @@ function makeWaterfallAxisTick(pctMap) {
         </text>
         {pct && (
           <g transform={`translate(${x}, ${y + 40})`}>
-            <circle r={16} fill="none" stroke={C.field} strokeWidth={1.6} />
-            <text textAnchor="middle" dy={4} style={{ fontSize: 11.5, fontWeight: 700, fill: C.field, fontFamily: FONT_DATA }}>
+            <circle r={18} fill="none" stroke={C.field} strokeWidth={1.6} />
+            <text textAnchor="middle" dy={4} style={{ fontSize: 11, fontWeight: 700, fill: C.field, fontFamily: FONT_DATA }}>
               {pct}
             </text>
           </g>
@@ -2140,9 +2142,9 @@ function makeWaterfallAxisTick(pctMap) {
   };
 }
 
-const EMISSIONS_AXIS_TICK = makeWaterfallAxisTick({ "Reduction": "XXS%" });
-const NITROGEN_AXIS_TICK = makeWaterfallAxisTick({ "Reduction": "XXS%" });
-const WATER_AXIS_TICK = makeWaterfallAxisTick({ "Saving": "XXS%" });
+const EMISSIONS_AXIS_TICK = makeWaterfallAxisTick({ "Reduction": "XX%" });
+const NITROGEN_AXIS_TICK = makeWaterfallAxisTick({ "Reduction": "XX%" });
+const WATER_AXIS_TICK = makeWaterfallAxisTick({ "Saving": "XX%" });
 
 /** Draws only the [base, top] slice of the bar - recharts positions this
  *  shape as if it were a full bar for `top`, so we shorten it from the same
@@ -2303,7 +2305,7 @@ function SeasonHeadlineResults() {
 function AuditedSection() {
   return (
     <Section id="audited" tone="tint">
-      <SectionHead index="09" title="Sampled. Quantified. Audited." lede="Carbon Accounting and Audit Pipeline: digital field-data collection, independent third-party audit, and GHG calculation." />
+      <SectionHead index="08" title="Sampled. Quantified. Audited." lede="Carbon Accounting and Audit Pipeline: digital field-data collection, independent third-party audit, and GHG calculation." />
       <Reveal><PipelineSteps /></Reveal>
 
       <Reveal delay={0.12} className="mt-10">
@@ -2555,7 +2557,7 @@ function TimelineSection() {
     <Section id="timeline">
       <div className="timeline-visual-group">
         <SectionHead
-          index="10"
+          index="09"
           title="Activity Timeline"
           lede="The wheat programme followed the crop production cycle from pre-sowing through sowing and establishment to maturity and harvest, with agronomic operations, regenerative interventions and nutrient applications aligned to each key growth stage."
         />
@@ -2628,7 +2630,7 @@ function FarmerImpactSection() {
   return (
     <Section id="farmerimpact" tone="tint">
       <SectionHead
-        index="11"
+        index="10"
         title="What It Meant for the Farmer"
         lede="The project strengthened farm economics through immediate cost savings and longer-term productivity gains from regenerative practice."
       />
@@ -2666,7 +2668,7 @@ function SourcingSection() {
   return (
     <Section id="sourcing" tone="dark">
       <SectionHead
-        index="12"
+        index="11"
         tone="dark"
         title="Mapped to ABC's Responsible Sourcing Standard"
         lede="The standard sets out how the supply chain is expected to operate - environmental performance, human-rights protection, traceability and farmer livelihoods. Every intervention deployed in Ludhiana and Faridkot maps onto a pillar, and every metric here supports ABC's Responsible Sourcing."
@@ -2738,7 +2740,7 @@ const ANNEXURES = [
   ["Annexure 4", "Weekly WhatsApp messages sent to farmers", [annexureWhatsapp, annexureWhatsapp2], "Videos and visual infographics on Zero/Reduced Tillage, crop residue management and balanced fertiliser use in vernacular language were shared through weekly WhatsApp messages. The advisories also reinforced integrated pest management, responsible chemical use, farmer-diary maintenance and safe labour practices"],
   ["Annexure 5", "Harvest in Action", [annexureHarvest, annexureHarvest2], "Geotagged documentation of mechanised wheat harvesting at a programme field prior to programme procurement and traceability activities in Sherpur Kalan, Punjab."],
   ["Annexure 6", "Grains ready to be transported", annexureGrains, "Harvested low-carbon programme wheat being weighed and packed in separate, clearly identifiable white bags at Kot kapura, Punjab."],
-  ["Annexure 8", "Independent third-party audit", annexureAudit, "Third Party auditor in field with the Grow Indigo team and participating farmers."],
+  ["Annexure 7", "Independent third-party audit", annexureAudit, "Third Party auditor in field with the Grow Indigo team and participating farmers."],
 ];
 
 function EvidenceSection() {
@@ -2746,7 +2748,7 @@ function EvidenceSection() {
   return (
     <Section id="evidence">
       <SectionHead
-        index="13"
+        index="12"
         title="Field Evidence"
         lede="The annexures below document field-level evidence, monitoring data and operational records collected throughout the project period - each one geo-tagged and dated at the point of capture."
       />
@@ -2797,7 +2799,7 @@ function AboutSection() {
   return (
     <Section id="about" tone="tint">
       <SectionHead
-        index="14"
+        index="13"
         title="About Grow Indigo"
         lede="Grow Indigo is a pioneering agri-tech company, with a focus on advancing sustainable agriculture to improve farmer profitability, environmental sustainability, and consumer health. Our mission is to accelerate agricultural transformation for a healthier planet, driven by four core pillars."
       />
@@ -2897,7 +2899,7 @@ function Closing() {
       <div className="mx-auto px-5 md:px-10 py-14" style={{ maxWidth: 1180 }}>
         <LogoLockup light height={40} />
         <div className="wh-data mt-8 text-center" style={{ fontSize: 10.5, color: "rgba(255,255,255,.4)", letterSpacing: ".1em" }}>
-          © XXS Grow Indigo. All rights reserved.
+          © 2026 Grow Indigo. All rights reserved.
         </div>
       </div>
     </footer>

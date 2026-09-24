@@ -82,9 +82,8 @@ const VILLAGES = VILLAGES_DATA;
    the map never silently drops a category if the roster grows. */
 const MILLER_PALETTE = [C.field, C.leaf, C.husk, C.clay, C.water];
 /* Hover/selected feature-state colours must never coincide with a miller's
-   own colour - reusing C.leaf/C.husk here used to make "Golden" fields look
-   identical to any hovered field, and "Kohinoor" fields identical to any
-   selected field. Kept as two dedicated hues outside the miller ramp. */
+   own colour - reusing C.leaf/C.husk here used to make some millers' fields
+   look identical to any hovered or selected field. Kept as two dedicated hues outside the miller ramp. */
 const HOVER_COLOR = "#2F9E77";
 const SELECTED_COLOR = "#D6336C";
 const MILLER_COLORS = Object.fromEntries(
@@ -146,9 +145,9 @@ const BLOCKS = [...new Set(VILLAGES.map((v) => v.block))];
 const TOTAL_ACRES = Math.round(FIELDS_FC.features.reduce((s, f) => s + f.properties.acresExcel, 0));
 const ACRE_TO_HA = 0.404686;
 
-/* Procurement (MT) per miller, in a fixed display order - LFM, Gillco,
-   Golden, Kohinoor - independent of MILLERS' own (alphabetical) order. */
-const MILLER_ORDER = ["LFM", "Gillco", "Golden", "Kohinoor"];
+/* Procurement (MT) per miller, in a fixed display order. Miller names are
+   anonymised (Miller 1-4), numbered to match the traceability flow graphic. */
+const MILLER_ORDER = ["Miller 1", "Miller 2", "Miller 3", "Miller 4"];
 const MILLER_PROCUREMENT_MT = Object.fromEntries(
   MILLERS.map((n) => [
     n,
